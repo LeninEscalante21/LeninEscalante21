@@ -21,3 +21,9 @@ Welcome!
 <p align = "center">
  "Essentially, all models are wrong, but some are useful"
 </p>
+
+# Languages:
+🐍Python
+🍵Java
+R
+C#
