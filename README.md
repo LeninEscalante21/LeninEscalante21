@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 <p align="center">
 Welcome!
 </p>
-<p aling = "center">
+<p align = "center">
  "Essentially, all models are wrong, but some are useful"
 </p>
