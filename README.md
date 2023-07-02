@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Welcome!
-
- "Essentially, all models are wrong, but some are useful"
-
           
+<p align="center">
+Welcome!
+ 
+ "Essentially, all models are wrong, but some are useful"
+</p>
